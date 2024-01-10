@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.edisonlee55.com"><img src="assets/images/avatar.gif" alt="Banner"></a>
+  <a href="https://www.edisonlee55.com"><img src="assets/images/avatar.webp" alt="Banner"></a>
 </p>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ElicitZero.ElicitZero">
 <p align="center">
