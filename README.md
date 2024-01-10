@@ -15,6 +15,16 @@
   <a href="https://github.com/DenverCoder1/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=ElicitZero&style=for-the-badge&label=Visitors&color=424242&abbreviated=true&logo=person-add"/></a>
 </p>
+<details open>
+  <summary><h2>Where to find me</h2></summary>
+  
+<p align="center">
+<a href="https://github.com/ElicitZero?tab=followers"><img alt="views" title="Github" src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white"/></a>
+<a href="https://twitter.com/ElicitZero"><img alt="views" title="Facebook" src="https://img.shields.io/badge/-Facebook-1877f2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://twitter.com/ElicitZero"><img alt="views" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="https://www.youtube.com/@ElicitZero"><img alt="views" title="Youtube" src="https://img.shields.io/badge/-Youtube-f00?style=for-the-badge&logo=Youtube&logoColor=white"/></a>
+</p>
+</details>
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
@@ -26,14 +36,7 @@
 
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
-<details>
-  <summary><b>Where to find me</b></summary>
 
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/ElicitZero)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=for-the-badge&logo=Facebook&logoColor=white)](https://twitter.com/ElicitZero)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ElicitZero)
-[![Youtube](https://img.shields.io/badge/-Youtube-f00?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/@ElicitZero)
-</details>
 <details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
 
